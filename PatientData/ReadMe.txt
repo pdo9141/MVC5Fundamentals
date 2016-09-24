@@ -1,0 +1,2 @@
+﻿01) To add XML documentation to Web.Api help screens, add your XML comments to actions, go to properties > builds
+    Enable XML documentation file checkbox, go to Areas/HelpPage/App_Start/HelpPageConfig.cs and uncomment config.SetDocumentationProvider
