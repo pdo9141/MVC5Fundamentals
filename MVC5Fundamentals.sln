@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatientData", "PatientData\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorsClient", "CorsClient\CorsClient.csproj", "{8F882043-20FE-4E05-8B46-A3AD8447A027}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPA", "SPA\SPA.csproj", "{A6B8E7EE-7620-403D-8447-EF9250968645}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8F882043-20FE-4E05-8B46-A3AD8447A027}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F882043-20FE-4E05-8B46-A3AD8447A027}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F882043-20FE-4E05-8B46-A3AD8447A027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6B8E7EE-7620-403D-8447-EF9250968645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B8E7EE-7620-403D-8447-EF9250968645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B8E7EE-7620-403D-8447-EF9250968645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B8E7EE-7620-403D-8447-EF9250968645}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
